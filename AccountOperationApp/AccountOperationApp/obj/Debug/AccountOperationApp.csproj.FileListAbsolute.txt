@@ -1,0 +1,9 @@
+E:\sqlserver\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+E:\sqlserver\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+E:\sqlserver\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+E:\sqlserver\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+E:\sqlserver\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+E:\sqlserver\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+E:\sqlserver\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+E:\sqlserver\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
+E:\sqlserver\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.AccountOperationUI.resources
